@@ -1,0 +1,6 @@
+#!/bin/bash
+
+get(){
+    sudo aptitude install $1;
+
+}
