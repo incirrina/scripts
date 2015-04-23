@@ -1,7 +1,9 @@
 #!/bin/bash
 
 ## Tar has jackass arguments, this is a simplification wrapper
-## I did not want to make a script that decompressed everything because other compressioin software is very straight-forward,
+
+## I did not want to make a script that decompressed everything 
+## because other compressioin software is very straight-forward,
 
 
 # file exists?
